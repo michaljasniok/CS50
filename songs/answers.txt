@@ -1,0 +1,17 @@
+Characterization of the listener’s audio aura:
+Based on the listener’s top 100 songs from 2018, we can observe a certain musical profile – for example, dominant genre, tempo, energy level, or mood.
+If most songs are fast, energetic pop or rock, the listener’s “audio aura” could be described as dynamic and cheerful.
+If slower, more melancholic songs prevail, the aura might be calm and reflective.
+
+Why this method of calculation might be unrepresentative:
+The data only includes the top 100 songs, not the listener’s full listening history, so it may not reflect their complete taste.
+The year 2018 is just a single snapshot – musical preferences may change over time.
+It does not consider listening frequency, different playlists, or occasional genres.
+The top 100 might be dominated by popular hits, not personal favorites.
+
+Better ways to calculate the audio aura:
+Analyze all listened tracks over a longer period, not just the top 100.
+Take into account listening frequency and time spent on each track.
+Calculate average song attributes (tempo, energy, mood) from the full listening history.
+Group songs by genre or mood and determine the percentage share of each type of music.
+Track changes in taste over time, e.g., creating “audio snapshots” by year.
